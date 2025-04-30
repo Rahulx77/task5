@@ -35,6 +35,13 @@ public class Test5{
         Scanner sc = new Scanner(System.in);
         System.out.print("enter a number: ");
         int num = sc.nextInt();
+
+        System.out.print("enter a number: ");
+        int num2 = sc.nextInt();
+
+        System.out.print("enter a number: ");
+        int num3 = sc.nextInt();
+        
         oddNumber(num);
         sc.close();
 
